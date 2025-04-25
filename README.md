@@ -74,4 +74,4 @@ The dashboard successfully enables stakeholders to:
 ## 🙋‍♂️ About Me
 
 **Abhishek Kumar Singh**
-Aspirant Data Analyst with a passion for insights, dashboards, and storytelling with data.
+Aspiring Data Analyst with a passion for insights, dashboards, and storytelling with data.
